@@ -1,4 +1,3 @@
-# Get_And_Clean_Data
-created for the Coursera - Getting and Cleaning Data - course project
+# Course Project - Getting and Cleaning Data - Coursera
 
-explain how all of the scripts work and how they are connected
+This file will explain how all of the scripts work and how they are connected.
