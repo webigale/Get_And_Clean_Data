@@ -16,4 +16,3 @@ A new data set was created including the subject, activity and those fields with
 Using the data provided in the "activity_label.txt" file, the coded activity data was updated to activity descriptions.
 
 Finally, using the dplyr package, the data frame was converted into a data table and summarized with the mean of each remaining variable for each activity and each subject.
-
