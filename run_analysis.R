@@ -1,3 +1,7 @@
+## Assume that the following has been done to download and unzip the source files:
+## download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip")
+## unzip("getdata-projectfiles-UCI HAR Dataset.zip")
+setwd("UCI HAR Dataset")
 
 ## Merges the training and the test sets to create one data set.
 
